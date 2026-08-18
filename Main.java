@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //class to store words details
 class Item{
-    String word;
+    String word; 
     int frequency;
 
     public Item(String word, int frequency){
